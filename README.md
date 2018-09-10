@@ -1,4 +1,4 @@
-# Proyecto de maquetación web Licorera JJJ
+# Contratación para maquetación web de tres páginas.
 
 > Este repositorio contiene la maquetación de tres páginas usando bootstrap.
 
