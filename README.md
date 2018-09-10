@@ -6,13 +6,16 @@
 
 ![Captura de la App](./readme-static/perfil.png)
 
-[Ver la aplicación](https://ricrdomedina.github.io/mexico-establecimientos-gasolina-google-maps/)
+[Ver página perfil](https://ricrdomedina.github.io/LicoreraJJJ/perfil.html)
 
 ## Compras
 
 ![Captura de la App](./readme-static/compras.png)
 
+[Ver página compras](https://ricrdomedina.github.io/LicoreraJJJ/compra.html)
+
 ## Busqueda
 
 ![Captura de la App](./readme-static/busqueda.png)
 
+[Ver página compras](https://ricrdomedina.github.io/LicoreraJJJ/busqueda.html)
