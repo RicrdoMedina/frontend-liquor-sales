@@ -1,6 +1,6 @@
 # Contratación para maquetación web de tres páginas.
 
-> Este repositorio contiene la maquetación de tres páginas usando bootstrap.
+> Este repositorio contiene la maquetación de tres páginas usando bootstrap solo versión desktop.
 
 ## Perfil
 
